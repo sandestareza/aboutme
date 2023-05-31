@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sandesta Reza</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
+---
+[![](https://visitcount.itsvg.in/api?id=sandestareza&icon=6&color=9)](https://visitcount.itsvg.in)
+
 - 👨‍💻 All of my projects are available at [http://sandestareza.my.id](http://sandestareza.my.id)
 
 # 💻 Tech Stack:
@@ -12,9 +15,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=sandestareza&icon=6&color=9)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sandesta) 

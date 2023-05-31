@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandesta Reza</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandestareza&label=Profile%20views&color=0e75b6&style=flat" alt="sandestareza" /> </p>
-
 - 👨‍💻 All of my projects are available at [http://sandestareza.my.id](http://sandestareza.my.id)
 
 # 💻 Tech Stack:
